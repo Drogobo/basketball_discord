@@ -1,0 +1,23 @@
+Basketball
+__Offensive Moves__
+- 1. Drive in for layup (1 points at success) (95%)
+- 2. Step in for mid-range (2 points at success) (55%)
+- 3. Shoot the ball (3 points at success) (35%)
+__Upon Miss__
+- O. Offensive Rebound (30%)
+__On Defense__
+- C. Contest Shot (-5% to offensive shot)
+- B. Block Shot (10%)
+
+```-----|O|-----
+|  |     |  |
+|  |_____|  |
+ \_________/
+      o
+     /|\o
+    _/ \_ 
+```
+__SCORE:__
+n/a - 0
+n/a - 0
+**WINNER:** n/a
